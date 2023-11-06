@@ -1,0 +1,14 @@
+C:\Teamsparta\HongCSharp\Chapter2\Operator\bin\Debug\net6.0\Operator.exe
+C:\Teamsparta\HongCSharp\Chapter2\Operator\bin\Debug\net6.0\Operator.deps.json
+C:\Teamsparta\HongCSharp\Chapter2\Operator\bin\Debug\net6.0\Operator.runtimeconfig.json
+C:\Teamsparta\HongCSharp\Chapter2\Operator\bin\Debug\net6.0\Operator.dll
+C:\Teamsparta\HongCSharp\Chapter2\Operator\bin\Debug\net6.0\Operator.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.AssemblyInfoInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.AssemblyInfo.cs
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.csproj.CoreCompileInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.dll
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\refint\Operator.dll
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\Operator.genruntimeconfig.cache
+C:\Teamsparta\HongCSharp\Chapter2\Operator\obj\Debug\net6.0\ref\Operator.dll
