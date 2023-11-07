@@ -1,0 +1,14 @@
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\bin\Debug\net6.0\Statement_Loops.exe
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\bin\Debug\net6.0\Statement_Loops.deps.json
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\bin\Debug\net6.0\Statement_Loops.runtimeconfig.json
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\bin\Debug\net6.0\Statement_Loops.dll
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\bin\Debug\net6.0\Statement_Loops.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.AssemblyInfoInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.AssemblyInfo.cs
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.csproj.CoreCompileInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.dll
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\refint\Statement_Loops.dll
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\Statement_Loops.genruntimeconfig.cache
+C:\Teamsparta\HongCSharp\Chapter2\Statement_for\obj\Debug\net6.0\ref\Statement_Loops.dll

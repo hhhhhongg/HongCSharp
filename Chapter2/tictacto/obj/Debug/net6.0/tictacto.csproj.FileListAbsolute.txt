@@ -1,0 +1,14 @@
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\bin\Debug\net6.0\tictacto.exe
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\bin\Debug\net6.0\tictacto.deps.json
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\bin\Debug\net6.0\tictacto.runtimeconfig.json
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\bin\Debug\net6.0\tictacto.dll
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\bin\Debug\net6.0\tictacto.pdb
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.AssemblyInfoInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.AssemblyInfo.cs
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.csproj.CoreCompileInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.dll
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\refint\tictacto.dll
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.pdb
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\tictacto.genruntimeconfig.cache
+C:\Teamsparta\HongCSharp\Chapter2\tictacto\obj\Debug\net6.0\ref\tictacto.dll

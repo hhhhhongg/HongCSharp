@@ -1,0 +1,14 @@
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\bin\Debug\net6.0\Recursive.exe
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\bin\Debug\net6.0\Recursive.deps.json
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\bin\Debug\net6.0\Recursive.runtimeconfig.json
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\bin\Debug\net6.0\Recursive.dll
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\bin\Debug\net6.0\Recursive.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfoInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.AssemblyInfo.cs
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.csproj.CoreCompileInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.dll
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\refint\Recursive.dll
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\Recursive.genruntimeconfig.cache
+C:\Teamsparta\HongCSharp\Chapter2\Recursive\obj\Debug\net6.0\ref\Recursive.dll
