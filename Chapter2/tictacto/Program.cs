@@ -13,15 +13,15 @@
         {
             do
             {
-                Console.Clear();
+                Console.Clear(); // 콘솔 창을 클리어해줌
                 Console.WriteLine("플레이어 1: X 와 플레이어 2: O");
-                Console.WriteLine("\n");
+                Console.WriteLine("\n"); // 줄바꾸기
 
-                if (player % 2 == 0)
+                if (player % 2 == 0) // player가 짝수일때
                 {
                     Console.WriteLine("플레이어 2의 차례");
                 }
-                else
+                else // player가 홀수일때
                 {
                     Console.WriteLine("플레이어 1의 차례");
                 }
@@ -30,7 +30,9 @@
                 Board();
 
                 string line = Console.ReadLine();
-                bool res = int.TryParse(line, out choice);
+                // string값인 line을 받아와 정수형 값으로 변경해주고 그 값을 매개변수인 choice에 넣어줌
+                // 변경이 성공적으로 완료되었으면 true값을 실패했으면 false 값을 res에 넣어준다.
+                bool res = int.TryParse(line, out choice); 
 
                 if (res == true)
                 {
@@ -55,12 +57,12 @@
                 }
                 else
                 {
-                    Console.WriteLine("숫자를 입려해주세요.");
+                    Console.WriteLine("숫자를 입력해주세요.");
                 }
 
                 flag = CheckWin();
             }
-            while (flag != -1 && flag != 1);
+            while (flag != -1 && flag != 1); // 조건(게임이 끝났는지를 체크)-> flag가 0이면 게임이 끝나지 않은상태
 
             if (flag == 1)
             {
@@ -71,7 +73,6 @@
                 Console.WriteLine("무승부");
             }
 
-            Console.ReadLine();
         }
 
         static void Board()

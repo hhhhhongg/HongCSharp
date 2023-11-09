@@ -1,0 +1,14 @@
+C:\Teamsparta\HongCSharp\Chapter2\Empty\bin\Debug\net6.0\Empty.exe
+C:\Teamsparta\HongCSharp\Chapter2\Empty\bin\Debug\net6.0\Empty.deps.json
+C:\Teamsparta\HongCSharp\Chapter2\Empty\bin\Debug\net6.0\Empty.runtimeconfig.json
+C:\Teamsparta\HongCSharp\Chapter2\Empty\bin\Debug\net6.0\Empty.dll
+C:\Teamsparta\HongCSharp\Chapter2\Empty\bin\Debug\net6.0\Empty.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.AssemblyInfoInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.AssemblyInfo.cs
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.csproj.CoreCompileInputs.cache
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.dll
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\refint\Empty.dll
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.pdb
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\Empty.genruntimeconfig.cache
+C:\Teamsparta\HongCSharp\Chapter2\Empty\obj\Debug\net6.0\ref\Empty.dll

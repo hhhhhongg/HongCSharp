@@ -7,21 +7,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statement_If", "Statement_I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If_practice", "If_practice\If_practice.csproj", "{2927F8D3-780E-40B5-8B7D-4D5CBEE927D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statement_Loops", "Statement_for\Statement_Loops.csproj", "{3D4EC9CC-B27C-4AD9-9DD4-3ECFFFD923DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Statement_Loops", "Statement_for\Statement_Loops.csproj", "{3D4EC9CC-B27C-4AD9-9DD4-3ECFFFD923DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_practice", "Loops_practice\Loops_practice.csproj", "{1DDC15AB-BAE7-441D-954F-0D2EC235D7F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops_practice", "Loops_practice\Loops_practice.csproj", "{1DDC15AB-BAE7-441D-954F-0D2EC235D7F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{79A9AE86-5081-402D-8B81-91007330F009}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{79A9AE86-5081-402D-8B81-91007330F009}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{DC3B0A24-9DF5-45FE-93CF-D63F3240F088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collection", "Collection\Collection.csproj", "{DC3B0A24-9DF5-45FE-93CF-D63F3240F088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method", "method\method.csproj", "{BDED343E-38FE-483B-87A1-715EBD8C1133}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "method", "method\method.csproj", "{BDED343E-38FE-483B-87A1-715EBD8C1133}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\Overloading.csproj", "{CF23E08D-5BD4-42F0-AF7F-FF047EDB5D4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading", "Overloading\Overloading.csproj", "{CF23E08D-5BD4-42F0-AF7F-FF047EDB5D4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive", "Recursive\Recursive.csproj", "{6276AD2F-980E-4DF6-91D5-A0550339988B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive", "Recursive\Recursive.csproj", "{6276AD2F-980E-4DF6-91D5-A0550339988B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictacto", "tictacto\tictacto.csproj", "{D9F2E325-075B-4C19-9BDA-7B1D6C5DD52A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tictacto", "tictacto\tictacto.csproj", "{D9F2E325-075B-4C19-9BDA-7B1D6C5DD52A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empty", "Empty\Empty.csproj", "{798A5F97-23F0-4561-B539-1E5EDED8B959}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{D9F2E325-075B-4C19-9BDA-7B1D6C5DD52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9F2E325-075B-4C19-9BDA-7B1D6C5DD52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9F2E325-075B-4C19-9BDA-7B1D6C5DD52A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798A5F97-23F0-4561-B539-1E5EDED8B959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798A5F97-23F0-4561-B539-1E5EDED8B959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798A5F97-23F0-4561-B539-1E5EDED8B959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798A5F97-23F0-4561-B539-1E5EDED8B959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
